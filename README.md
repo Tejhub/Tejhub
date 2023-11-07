@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tejas Gurav</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **frontend development**
+- 🔭 I’m currently working on **Software development**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **DSA Using Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

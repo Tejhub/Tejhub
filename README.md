@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tejas Gurav</h1>
-<h3 align="center">A passionate AI Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
-- 🔭 I’m currently working on **AI AND ML**
+- 🔭 I’m currently working on strengthening my skills in **Data Engineering and AI.**
 
-- 🌱 I’m currently learning **LLM and Computer Vision**
+- 🌱 I’m currently learning **LLM and Agentic AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
